@@ -1,0 +1,135 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    width: 75%;
+    height: 50px;
+    background-color: #07031A;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.item{
+    font-size: 20px;
+    margin: 13px 0 13px 25px;
+    list-style: none;
+    color: #07031A;
+    background-color: #FDB827;
+}
+
+.itm{
+    text-decoration: none;
+}
+.btn{
+    height: 30px;
+    margin: 10px 0 0 10px;
+    position: relative;
+    left: 55%;
+    background-color: #07031A;
+    color: #FDB827;
+}
+
+.profile-body{
+    width: 75%;
+    margin: 40px auto;
+    /* margin-top: px; */
+
+}
+
+.dark-profile-body{
+    width: 75%;
+    background-color: #413543;
+    margin: auto;
+}
+
+#profile-box{
+    background-color: #393646;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 10px;
+}
+
+.profile-pix{
+    width: 250px;
+    height: 250px;
+}
+
+.p1{
+    margin: 10px 0 0 40px;
+    font-size: 20px;
+    line-height: 1.3;
+    text-align: center;
+    color: #EBB02D;
+}
+
+.p2{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 23px;
+    background-color: #39311D;
+    color: #EBB02D;
+    margin: 30px 0 10px 150px;
+    width: 450px;
+    text-align: center;
+}
+
+#qws{
+    background-color: #393646;
+    padding: 10px;
+    margin-top: 40px;
+}
+
+h3{
+    font-size: 23px;
+    line-height: 1.5;
+    color: #100720;
+}
+
+.ul1{
+    font-size: 20px;
+    margin-left: 50px;
+    list-style: none;
+    color: #FDB827;
+}
+
+.ul2{
+    font-size: 20px;
+    margin-left: 50px;
+    /* list-style: none; */
+    color: #FDB827;
+}
+
+.sch{
+    background-color: #EBB02D;
+    color: #413543;
+}
+
+#social-media{
+    width: 100%;
+    height: 50px;
+    background-color: #07031A;
+    margin-top: 30px;
+    display: flex;
+}
+
+h5{
+    font-size: 15px;
+    color: #EBB02D;
+    margin: 15px 0 0 40px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.sm{
+    color: #EBB02D;
+    font-size: 20px;
+}
+
+.smli{
+    position: relative;
+    left: 65%;
+    margin: 15px 0 0 15px;
+}
